@@ -21,7 +21,7 @@ Passionate about **Cybersecurity • DevSecOps • AI/ML • Cloud Security**
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27251F?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/M1racleScr1pt)
 
 ## 💡 Open to Collaboration
-🔭 I’m looking to collaborate on meaningful projects at the intersection of **security, AI, and open-source tools**  
+🔭 I'm looking to collaborate on meaningful projects at the intersection of **security, AI, and open-source tools**  
 🤝 Seeking beginner-friendly contributions in communities driven by clarity and long-term growth  
 💬 Ask me about cybersecurity and writing
 
@@ -55,12 +55,11 @@ Passionate about **Cybersecurity • DevSecOps • AI/ML • Cloud Security**
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/McOmokaro/pawserve">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McOmokaro&repo=pawserve&theme=tokyonight" alt="Pawserve Repo" />
+  <a href="https://github.com/McOmokaro/McOmokaro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McOmokaro&repo=McOmokaro&theme=tokyonight" alt="McOmokaro Repo" />
   </a>
-  <!-- Replace YOUR_OTHER_REPO with another project you are proud of -->
-  <a href="https://github.com/McOmokaro/YOUR_OTHER_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McOmokaro&repo=YOUR_OTHER_REPO&theme=tokyonight" alt="Other Repo" />
+  <a href="https://github.com/McOmokaro/Resilient-Racoon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McOmokaro&repo=Resilient-Racoon&theme=tokyonight" alt="Resilient-Racoon Repo" />
   </a>
 </p>
 
